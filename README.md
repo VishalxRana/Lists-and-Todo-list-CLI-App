@@ -10,3 +10,5 @@ You can:
 - View the contents of the list
 - Delete Items or tasks in list
 - Exit out of the whole program
+
+*The project was built from scratch!*
