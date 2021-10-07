@@ -5,3 +5,4 @@ These are the list of projects which were created within a day.
 3. [Movie Guessing Game](https://github.com/VishalxRana/One-Day-Builds-Python-Projects/tree/main/Movie%20Guessing%20Game)
 4. [BMI Calculator](https://github.com/VishalxRana/One-Day-Builds-Python-Projects/tree/main/BMI%20Calculator)
 5. [Tip Calculator](https://github.com/VishalxRana/One-Day-Builds-Python-Projects/tree/main/Tip%20Calculator)
+6. [Rock Paper Scissors](https://github.com/VishalxRana/One-Day-Builds-Python-Projects/tree/main/Rock%20Pape%20Scissors)
